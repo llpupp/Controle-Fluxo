@@ -1,1 +1,1 @@
-Repositório referente à lógica condicional e controle de fluxos
+Repositório referente à lógica condicional / controle de fluxos
